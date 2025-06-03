@@ -1,2 +1,0 @@
-# Simulasi-Bank
-bank sederhana
